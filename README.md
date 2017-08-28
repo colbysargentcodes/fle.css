@@ -6,7 +6,7 @@ The library can be generated through a javascript file with customisable options
 ## Usage
 1. Modify the `options` object in `fle.css.js` to your requirements to generate a custom fle.css stylesheet
 2. Either
-   1. (recommended) Link to your generated fle.css in your HTML
+   1. **(recommended)** Link to your generated fle.css in your HTML
    
       ```
       <link rel='stylesheet' href='fle.css'>
